@@ -1,7 +1,10 @@
 # Expense_Tracker_Project_JAVA
 
-![image](https://github.com/user-attachments/assets/ba69aa88-abf6-4424-9b3c-7ab777c8e400)
-![image](https://github.com/user-attachments/assets/8e7cc36b-c944-4793-931c-3c35d103f806)
+
+![Screenshot (88)](https://github.com/user-attachments/assets/d48e7144-fc21-407c-a0e9-17bb75bd2206)
+
+![Screenshot (89)](https://github.com/user-attachments/assets/013647e3-b3ee-48ea-85b1-c08e59c38fa9)
+
 
 A minimal desktop application to track income and expenses built with Java Swing and MySQL.
 
